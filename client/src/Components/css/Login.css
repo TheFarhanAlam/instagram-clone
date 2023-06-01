@@ -1,0 +1,9 @@
+form input {
+    display: block;
+    margin-bottom: 5px;
+    margin: 8px auto;
+    border: 1px solid rgb(177, 170, 170);
+    background-color: rgb(247, 244, 244);
+    border-radius: 3px;
+    outline: none;
+}
